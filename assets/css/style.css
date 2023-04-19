@@ -1,0 +1,24 @@
+
+
+body {
+    background: rgb(134, 169, 221);
+}
+
+.clock {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 25vh; 
+}
+
+.break {
+    flex-basis: 100%;
+}
+
+.clock-text {
+    font-size: 10vh;
+}
+
+.date-text {
+    font-size: 6vh;
+}
